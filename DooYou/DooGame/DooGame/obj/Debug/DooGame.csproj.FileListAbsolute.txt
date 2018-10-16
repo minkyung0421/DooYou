@@ -1,0 +1,10 @@
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\bin\Debug\DooGame.exe.config
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\bin\Debug\DooGame.exe
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\bin\Debug\DooGame.pdb
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.csprojResolveAssemblyReference.cache
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.Form1.resources
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.Properties.Resources.resources
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.csproj.GenerateResource.Cache
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.exe
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.pdb
+C:\Aurum\Mirim2018\DooYou\DooGame\DooGame\obj\Debug\DooGame.Scene.resources
